@@ -1,0 +1,6 @@
+apiVersion: v2
+name: ai-infra-cascade-defense
+description: FCCT AI Infrastructure Cascade Defense V4
+type: application
+version: 0.4.0
+appVersion: v4
