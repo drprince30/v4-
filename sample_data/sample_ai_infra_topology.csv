@@ -1,0 +1,13 @@
+node_id,rack_id,row,col,zone,cooling_loop,power_domain,fabric_group,scheduler_pool,tenant_id
+gpu-node-00,rack-1,0,0,zone-A,loop-1,pdu-1,fabric-0,pool-train,tenant-0
+gpu-node-01,rack-1,0,1,zone-A,loop-1,pdu-1,fabric-0,pool-train,tenant-1
+gpu-node-02,rack-1,0,2,zone-B,loop-2,pdu-1,fabric-1,pool-train,tenant-2
+gpu-node-03,rack-1,0,3,zone-B,loop-2,pdu-1,fabric-1,pool-train,tenant-0
+gpu-node-04,rack-2,1,0,zone-A,loop-1,pdu-2,fabric-0,pool-train,tenant-0
+gpu-node-05,rack-2,1,1,zone-A,loop-1,pdu-2,fabric-0,pool-train,tenant-1
+gpu-node-06,rack-2,1,2,zone-B,loop-2,pdu-2,fabric-1,pool-train,tenant-2
+gpu-node-07,rack-2,1,3,zone-B,loop-2,pdu-2,fabric-1,pool-train,tenant-0
+gpu-node-08,rack-3,2,0,zone-A,loop-1,pdu-3,fabric-0,pool-infer,tenant-0
+gpu-node-09,rack-3,2,1,zone-A,loop-1,pdu-3,fabric-0,pool-infer,tenant-1
+gpu-node-10,rack-3,2,2,zone-B,loop-2,pdu-3,fabric-1,pool-infer,tenant-2
+gpu-node-11,rack-3,2,3,zone-B,loop-2,pdu-3,fabric-1,pool-infer,tenant-0
